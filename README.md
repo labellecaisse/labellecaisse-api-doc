@@ -1,2 +1,3 @@
-# labellecaisse-api-doc
-The documentation of labellecaisse's API
+# labellecaisse API documentation
+
+Please visit the wiki.
